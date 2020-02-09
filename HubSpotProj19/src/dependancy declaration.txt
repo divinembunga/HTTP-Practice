@@ -1,0 +1,3 @@
+DEPENDENCY DECLARATION
+
+The external jar file json-20180813 was used for this project.
